@@ -1,0 +1,10 @@
+{
+  "versionCode": 6,
+  "versionName": "0.8.0",
+  "publishedAt": "2026-09-04T06:03:03Z",
+  "apkUrl": "https://github.com/zzmgoing/MaaWosDist/releases/download/v0.8.0/maa-wos-0.8.0.apk",
+  "apkSizeBytes": 74619282,
+  "apkSha256": "ddedbad287a56ba2c46e8b8baded745ad62bf8b8ce87e4990df4be72bf81fe20",
+  "signingCertSha256": "82e206feb3dea9034acf17d3ffaf7d96e472fceb37084c9b66559ae6ef82261b",
+  "changelog": "MaaWos 0.8.0（首个发布版本）\n\n首个对外发布的版本，安装包由 CI 签名后发布。\n\n自动化任务\n- 每日日常、自动采集、联盟总动员、打熊、我的海岛、宠物寻宝、自动签到等成套流程\n- 体力不足时统一走「补充体力」，三条出征共用同一套补给逻辑\n- 队列与角色切换按界面真实读数判断，\"没事可做\"正常收尾而不再算失败\n\n调度与运行\n- 定点执行支持每 N 天与首次执行日期\n- 进度与停止移入通知栏，可在后台跟进\n- 独立日志通道记录流程、节点与崩溃，便于回报问题\n\n授权与更新\n- 首次安装走引导页与离线设备绑定的授权码门禁\n- 远端授权名单支持吊销与续期，含 7 天宽限期\n- 应用内更新：从公开分发仓库查、下、校验、安装\n\n已知事项\n- 需要授权码方可使用，申请入口在引导页\n- 仅在小米 23117RK66C 与 Pixel 6 上做过真机验证"
+}
