@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-05",
+  "templates": [
+    {
+      "id": "00e9430a-20d3-47be-9a79-0b4b2b86a25e",
+      "name": "海塔",
+      "slug": "haita",
+      "itemCount": 50,
+      "referenceWidth": 1080,
+      "referenceHeight": 2400,
+      "sizeBytes": 981492,
+      "sha256": "d5dd2c049779e7d5e420d881db6a0e43a0807204ab7f39df6c52b894b18a7406",
+      "thumbnail": "dream-recall/thumbs/haita.jpg",
+      "download": "dream-recall/packages/haita.zip"
+    },
+    {
+      "id": "235d5752-7344-4ed3-9491-addc9dc5b070",
+      "name": "花园",
+      "slug": "huayuan",
+      "itemCount": 50,
+      "referenceWidth": 1080,
+      "referenceHeight": 2400,
+      "sizeBytes": 1061022,
+      "sha256": "d5fb75dba53bd45f5d9329c2387df0c7a1883c8ac7ea2b75cd8283913e7cd2bc",
+      "thumbnail": "dream-recall/thumbs/huayuan.jpg",
+      "download": "dream-recall/packages/huayuan.zip"
+    },
+    {
+      "id": "4be18b52-ecfb-4a17-967b-a273b30d0eff",
+      "name": "双人-圣剑",
+      "slug": "shuangren-shengjian",
+      "itemCount": 51,
+      "referenceWidth": 1080,
+      "referenceHeight": 2400,
+      "sizeBytes": 1109917,
+      "sha256": "724e125483fca265fc38c70fbd6ff47f1fab15ee7e3fbfa97c1624b3089e29d1",
+      "thumbnail": "dream-recall/thumbs/shuangren-shengjian.jpg",
+      "download": "dream-recall/packages/shuangren-shengjian.zip"
+    },
+    {
+      "id": "61eca18c-a47c-43cf-b6fc-8f9ed2706546",
+      "name": "小船",
+      "slug": "xiaochuan",
+      "itemCount": 31,
+      "referenceWidth": 1080,
+      "referenceHeight": 2400,
+      "sizeBytes": 1084715,
+      "sha256": "fd8e1fa2667627455763856b0d994055a74baaf5de43a899d08f69e19dc9e944",
+      "thumbnail": "dream-recall/thumbs/xiaochuan.jpg",
+      "download": "dream-recall/packages/xiaochuan.zip"
+    },
+    {
+      "id": "5ae406ad-ddfd-4cd4-a055-3f66f75b342d",
+      "name": "小屋",
+      "slug": "xiaowu",
+      "itemCount": 50,
+      "referenceWidth": 1080,
+      "referenceHeight": 2400,
+      "sizeBytes": 1068851,
+      "sha256": "cf56b370c303716986e010bf7fd3b6173f567f60a1fb715d763377ae4b658f3b",
+      "thumbnail": "dream-recall/thumbs/xiaowu.jpg",
+      "download": "dream-recall/packages/xiaowu.zip"
+    },
+    {
+      "id": "503c6f25-68f5-4443-b5a9-d5219800982a",
+      "name": "游乐园",
+      "slug": "youleyuan",
+      "itemCount": 51,
+      "referenceWidth": 1080,
+      "referenceHeight": 2400,
+      "sizeBytes": 1029945,
+      "sha256": "1209e7ce244a9f60b373f2f2b4e9f2776babad364af1a5911ec1a0b4e28bc62b",
+      "thumbnail": "dream-recall/thumbs/youleyuan.jpg",
+      "download": "dream-recall/packages/youleyuan.zip"
+    }
+  ]
+}
