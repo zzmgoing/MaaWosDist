@@ -1,10 +1,10 @@
 {
-  "versionCode": 8,
-  "versionName": "0.8.2",
-  "publishedAt": "2026-09-08T10:56:51Z",
-  "apkUrl": "https://github.com/zzmgoing/MaaWosDist/releases/download/v0.8.2/maa-wos-0.8.2.apk",
-  "apkSizeBytes": 74385824,
-  "apkSha256": "68e071ededd6effc47d17c1c9b2e32425fb0cd5dbc9f3cdd274881f81d060c9e",
+  "versionCode": 9,
+  "versionName": "0.8.3",
+  "publishedAt": "2026-09-08T15:03:20Z",
+  "apkUrl": "https://github.com/zzmgoing/MaaWosDist/releases/download/v0.8.3/maa-wos-0.8.3.apk",
+  "apkSizeBytes": 74402332,
+  "apkSha256": "c1afed144a576349984ef4cd34841b5965385e0e43e80550fdb79ac9235851b2",
   "signingCertSha256": "82e206feb3dea9034acf17d3ffaf7d96e472fceb37084c9b66559ae6ef82261b",
-  "changelog": "- 小工具「梦境寻忆」：按关卡模板提示物品位置，支持从分发仓库下载在线模板并直接导入\n- 小工具「宠物洗炼」：洗炼确认框上先勾「今日不再提示！」再确认\n- 新任务「成长/每日任务领取」；自动签到拆成七条可独立开关的任务\n- 打熊改为「发车—跟车—回熊坑等自己那队」的循环，可配车策略与最少空位\n- 执行期异常探测框架：自动发现打转、连打与久无进展并落档，收工时自动封住整个环\n\n- 打熊、切角色、使用物品集结、宠物寻宝、海岛、挖矿、灯塔多处真机缺陷\n- 神秘商店的免费刷新会无界循环；矿种图标翻页无上限\n- 断网弹窗没接上「重新连接」；归位判据只认顶部，换个洞就误判\n- 前台服务起不来时不再整进程崩溃；三处让更新看起来「坏了」的状态残留\n\n- 删除实验室（录制、页面探查、页面模板、通用步骤与定制能力）"
+  "changelog": "0.8.3\n\n- 修复 release 包一执行就卡 15 秒失败：R8 掏空了 Shizuku 特权服务类\n- Shizuku 改成反代直链，点一下跳系统浏览器直接下载"
 }
