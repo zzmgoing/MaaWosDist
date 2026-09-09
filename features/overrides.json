@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-09",
+  "tasks": [
+    { "id": "wos.pipeline.launch-game.v1", "name": "设置角色" },
+    { "id": "wos.pipeline.checkin-commander.v1", "name": "统帅签到" },
+    { "id": "wos.pipeline.checkin-login-gift.v1", "name": "登录好礼" },
+    { "id": "wos.pipeline.shopping.v1", "name": "商店购买" },
+    { "id": "wos.pipeline.checkin-exploration.v1", "name": "探险领取" },
+    { "id": "wos.pipeline.alliance-donate.v1", "name": "联盟捐献" },
+    { "id": "wos.pipeline.checkin-alliance.v1", "name": "联盟宝箱领取" },
+    { "id": "wos.pipeline.island.v1", "name": "海岛领取协助" },
+    { "id": "wos.pipeline.checkin-edict.v1", "name": "领主律令-生产" },
+    { "id": "wos.pipeline.checkin-pet.v1", "name": "宠物寻宝" },
+    { "id": "wos.pipeline.lighthouse.v1", "name": "自动灯塔" },
+    { "id": "wos.pipeline.mine.v1", "name": "自动采集" },
+    { "id": "wos.pipeline.finish.v1", "name": "自动集结" },
+    { "id": "wos.pipeline.daily-quest.v1", "name": "每日任务领取" },
+    { "id": "wos.pipeline.checkin-mail.v1", "name": "邮件清理" },
+    { "id": "wos.pipeline.expedition.v1", "name": "自动游历" },
+    { "id": "wos.pipeline.arena.v1", "name": "自动竞技场" },
+    { "id": "wos.pipeline.alliance-mobilization.v1", "name": "联盟总动员" },
+    { "id": "wos.pipeline.item-rally.v1", "name": "使用物品集结" },
+    { "id": "wos.pipeline.behemoth-rally.v1", "name": "集结巨兽" },
+    { "id": "wos.pipeline.beast.v1", "name": "自动野兽" },
+    { "id": "wos.pipeline.bear.v1", "name": "打熊" }
+  ],
+  "tools": [
+    { "id": "golden-finger", "name": "金手指连点器" },
+    { "id": "dream-recall", "name": "梦境寻忆" },
+    { "id": "pet-refine", "name": "宠物洗炼" }
+  ]
+}
