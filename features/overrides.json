@@ -20,7 +20,7 @@
     { "id": "wos.pipeline.expedition.v1", "name": "自动游历" },
     { "id": "wos.pipeline.arena.v1", "name": "自动竞技场" },
     { "id": "wos.pipeline.alliance-mobilization.v1", "name": "联盟总动员" },
-    { "id": "wos.pipeline.item-rally.v1", "name": "使用物品集结" },
+    { "id": "wos.pipeline.item-rally.v1", "name": "物品集结" },
     { "id": "wos.pipeline.behemoth-rally.v1", "name": "集结巨兽" },
     { "id": "wos.pipeline.beast.v1", "name": "自动野兽" },
     { "id": "wos.pipeline.bear.v1", "name": "打熊" }
