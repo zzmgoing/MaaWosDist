@@ -1,10 +1,10 @@
 {
-  "versionCode": 9,
-  "versionName": "0.8.3",
-  "publishedAt": "2026-09-08T15:03:20Z",
-  "apkUrl": "https://github.com/zzmgoing/MaaWosDist/releases/download/v0.8.3/maa-wos-0.8.3.apk",
-  "apkSizeBytes": 74402332,
-  "apkSha256": "c1afed144a576349984ef4cd34841b5965385e0e43e80550fdb79ac9235851b2",
+  "versionCode": 10,
+  "versionName": "0.8.4",
+  "publishedAt": "2026-09-11T08:10:59Z",
+  "apkUrl": "https://github.com/zzmgoing/MaaWosDist/releases/download/v0.8.4/maa-wos-0.8.4.apk",
+  "apkSizeBytes": 74475475,
+  "apkSha256": "2a52043216ccdf9dfe48a63f6c8dccc3cb3e0799570e7c530bce04f9a61738d1",
   "signingCertSha256": "82e206feb3dea9034acf17d3ffaf7d96e472fceb37084c9b66559ae6ef82261b",
-  "changelog": "0.8.3\n\n- 修复 release 包一执行就卡 15 秒失败：R8 掏空了 Shizuku 特权服务类\n- Shizuku 改成反代直链，点一下跳系统浏览器直接下载"
+  "changelog": "v0.8.4"
 }
