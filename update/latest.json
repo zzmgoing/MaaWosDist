@@ -1,10 +1,10 @@
 {
-  "versionCode": 10,
-  "versionName": "0.8.4",
-  "publishedAt": "2026-09-11T08:10:59Z",
-  "apkUrl": "https://github.com/zzmgoing/MaaWosDist/releases/download/v0.8.4/maa-wos-0.8.4.apk",
-  "apkSizeBytes": 74475475,
-  "apkSha256": "2a52043216ccdf9dfe48a63f6c8dccc3cb3e0799570e7c530bce04f9a61738d1",
+  "versionCode": 11,
+  "versionName": "0.8.5",
+  "apkSha256": "d5467e93009595068102a4ebf3ba9010770dd70fd55d382aa077e1e9384bc557",
+  "apkSizeBytes": 46326271,
   "signingCertSha256": "82e206feb3dea9034acf17d3ffaf7d96e472fceb37084c9b66559ae6ef82261b",
-  "changelog": "v0.8.4"
+  "changelog": "应用更新迁移至自有服务：检查更新、下载安装包与手动下载不再依赖 GitHub。",
+  "publishedAt": "2026-10-16T11:26:56.758Z",
+  "apkUrl": "https://nas-wos.zzming.cn:16606/api/updates/packages/d5467e93009595068102a4ebf3ba9010770dd70fd55d382aa077e1e9384bc557.apk"
 }
