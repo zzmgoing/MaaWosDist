@@ -63,7 +63,7 @@ MaaWos 是基于 MaaFramework、在 Android 手机本地运行的《无尽冬日
 
 ## 下载与使用
 
-1. 前往 [Releases 发布页](https://github.com/zzmgoing/MaaWosDist/releases)，在版本的 **Assets** 中下载正式 APK。发布页尚无安装包时，可使用 [应用下载页](https://nas-wos.zzming.cn:16606/download/)。
+1. 前往 [Releases 发布页](https://github.com/zzmgoing/MaaWosDist/releases)，在版本的 **Assets** 中下载正式 APK。
 2. 安装后使用邮箱验证码登录，在「设置」中申请账号授权。
 3. 在「设置 → 权限」配置 Root 或本机无线调试，按页面提示完成所需权限。
 4. 选择任务，确认角色与参数；需要批量执行时建立分组，需要自动触发时添加定时。
