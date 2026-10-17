@@ -76,10 +76,10 @@ MaaWos 是基于 MaaFramework、在 Android 手机本地运行的《无尽冬日
 
 如果 MaaWos 帮你省下了时间，欢迎通过爱发电支持后续开发与维护。功能建议和使用问题也欢迎从 App 的「设置 → 反馈」提交。
 
-点击下方推广图或扫描二维码，前往我的爱发电主页。
+点击下方按钮，即可前往我的爱发电个人主页。
 
 <p align="center">
   <a href="https://afdian.com/a/maa-wos">
-    <img src="assets/afdian-promo.png" alt="钟子明的爱发电个人主页推广图，扫码支持 MaaWos" width="375" />
+    <img src="assets/afdian-support.jpg" alt="在爱发电支持我" width="280" />
   </a>
 </p>
