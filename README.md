@@ -4,7 +4,7 @@
 
 MaaWos 是基于 MaaFramework、在 Android 手机本地运行的《无尽冬日》助手。日常领取、资源采集、活动任务和实用小工具集中在一个 App 中，支持按自己的习惯组合任务、调整参数和安排执行时间。
 
-**[下载正式版](https://github.com/zzmgoing/MaaWosDist/releases) · [使用反馈](https://nas-wos.zzming.cn:16606/feedback/) · [爱发电主页](https://afdian.com/a/maa-wos)**
+**[预览与下载](https://nas-wos.zzming.cn:16606/download/) · [GitHub Releases](https://github.com/zzmgoing/MaaWosDist/releases) · [使用反馈](https://nas-wos.zzming.cn:16606/feedback/) · [爱发电主页](https://afdian.com/a/maa-wos)**
 
 ## 核心功能
 
@@ -40,30 +40,36 @@ MaaWos 是基于 MaaFramework、在 Android 手机本地运行的《无尽冬日
 
 ## 界面预览
 
-以下为 Android 实机截图，展示首页、任务配置、定时执行与宠物洗炼。
+以下为 MaaWos Android 实机截图，按首页、打熊小号分组、自动采集详情、定时执行与宠物洗炼排列。截图由项目维护者在授权设备上采集，用于本项目应用展示；系统状态栏与导航栏已裁去。
 
 <table>
   <tr>
     <th>任务首页与自建分组</th>
-    <th>单项任务参数</th>
+    <th>选中「打熊-小号」的首页</th>
   </tr>
   <tr>
     <td><img src="assets/screenshots/home.jpg" alt="MaaWos 首页：任务分类与自建分组" width="280" /></td>
-    <td><img src="assets/screenshots/task-settings.jpg" alt="商店购买任务：参数配置与运行入口" width="280" /></td>
+    <td><img src="assets/screenshots/bear-group.jpg" alt="打熊-小号首页：选中的分组与四项任务" width="280" /></td>
   </tr>
   <tr>
+    <th>自动采集详情</th>
     <th>定时执行</th>
-    <th>宠物洗炼</th>
   </tr>
   <tr>
+    <td><img src="assets/screenshots/task-settings.jpg" alt="自动采集：队伍数、矿种与默认采矿等级" width="280" /></td>
     <td><img src="assets/screenshots/schedule.jpg" alt="任务定时：定点、间隔与间隔天数" width="280" /></td>
-    <td><img src="assets/screenshots/pet-refine.jpg" alt="宠物洗炼：模式、目标词条与消耗上限" width="280" /></td>
+  </tr>
+  <tr>
+    <th colspan="2">宠物洗炼</th>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="assets/screenshots/pet-refine.jpg" alt="宠物洗炼：模式、目标词条与消耗上限" width="280" /></td>
   </tr>
 </table>
 
 ## 下载与使用
 
-1. 前往 [Releases 发布页](https://github.com/zzmgoing/MaaWosDist/releases)，在版本的 **Assets** 中下载正式 APK。
+1. 在[预览与下载页](https://nas-wos.zzming.cn:16606/download/)查看应用界面并下载最新正式 APK，手机支持横滑截图、点击放大与底部快捷下载；也可前往 [Releases 发布页](https://github.com/zzmgoing/MaaWosDist/releases)，在版本的 **Assets** 中下载。
 2. 安装后使用邮箱验证码登录，在「设置」中申请账号授权。
 3. 在「设置 → 权限」配置 Root 或本机无线调试，按页面提示完成所需权限。
 4. 选择任务，确认角色与参数；需要批量执行时建立分组，需要自动触发时添加定时。
