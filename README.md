@@ -2,7 +2,7 @@
 
 **多个分身，各自精彩。一处安排。**
 
-MaaWos 是在 Android 手机本地运行的《无尽冬日》助手。给每个账号一个独立分身，分别登录、快速切换；搭配梦境寻忆自动点击、日常任务和分组定时，让多个账号的日常更好安排。截图、识别与点击基于 MaaFramework 在手机本地完成，无需电脑持续连接。
+MaaWos 是在 Android 手机本地运行的《无尽冬日》助手。给每个账号一个独立分身，分别登录、快速切换；搭配日常任务和分组定时，让多个账号的日常更好安排。截图、识别与点击基于 MaaFramework 在手机本地完成，无需电脑持续连接。
 
 **[预览与下载](https://nas-wos.zzming.cn:16606/download/) · [GitHub Releases](https://github.com/zzmgoing/MaaWosDist/releases) · [使用反馈](https://nas-wos.zzming.cn:16606/feedback/) · [爱发电主页](https://afdian.com/a/maa-wos)**
 
@@ -15,11 +15,9 @@ MaaWos 是在 Android 手机本地运行的《无尽冬日》助手。给每个�
 - **任务跟着分身走**：将任务目标绑定到指定分身，配合自建分组与定时，分别保存任务参数。
 - **按账号权益使用**：VIP 支持 1 个分身，SVIP 分身数量不限，具体以账号权益为准。创建分身无需 Root，自动化任务需配置 Root 或本机无线调试。
 
+**使用小贴士：前 66 名 VIP 用户永久升级 SVIP，享受不限数量的分身。** 按首次正式月卡到账顺序分配名额，永久升级的是会员等级，月卡仍需保持有效。
+
 微信、抖音登录需通过对应分身菜单安装登录应用，在同一空间完成登录。建议仅用于登录，频繁使用可能导致账号异常或占用较多存储。
-
-### 梦境寻忆，两种方式轻松寻物
-
-选择当前地图的关卡模板，使用 **自动点击** 识别物品并连续点击，或切换 **提示模式** 在画面中标出目标。支持在线获取单人、双人关卡模板、参考图放大预览和识别间隔设置；请使用与当前地图、画面布局匹配的模板。
 
 ### 日常任务，集中处理
 
@@ -41,7 +39,6 @@ MaaWos 是在 Android 手机本地运行的《无尽冬日》助手。给每个�
 | 小工具 | 用途 |
 | --- | --- |
 | 金手指连点器 | 悬浮按钮双击开始连点，单击或拖动停止 |
-| 梦境寻忆 | 导入或下载关卡模板，选择自动点击或画面提示 |
 | 宠物洗炼 | 选择单洗或双洗、目标词条与洗炼石消耗上限 |
 | 堡垒抢车 | 在堡垒、要塞的集结列表中辅助抢车 |
 
@@ -53,35 +50,27 @@ MaaWos 是在 Android 手机本地运行的《无尽冬日》助手。给每个�
 
 ## 界面预览
 
-以下为 MaaWos Android 实机截图，优先展示本次新增的分身与梦境寻忆界面，随后为日常任务、分组、参数、定时与宠物洗炼。点击图片可查看原图；截图中的分身数量为展示账号的权益。
+以下为 MaaWos Android 实机截图，与官网下载页保持相同顺序：任务首页、打熊小号分组、自动采集详情、定时、宠物洗炼、分身管理与梦境寻忆。点击图片可查看原图；截图中的分身数量为展示账号的权益。
 
 <table>
-  <tr><th>分身管理 · 独立登录，随时切换</th><th>梦境寻忆 · 自动点击或提示</th></tr>
+  <tr><th>任务与分组</th><th>打熊小号，独立安排</th></tr>
   <tr>
-    <td><img src="assets/screenshots/clones.webp" alt="MaaWos 分身管理：分别启动、改名与管理" width="280" /></td>
-    <td><img src="assets/screenshots/dream-recall.webp" alt="梦境寻忆：自动点击、提示模式与关卡模板" width="280" /></td>
+    <td><img src="assets/screenshots/home.webp" alt="任务首页：分类任务与自建分组" width="280" /></td>
+    <td><img src="assets/screenshots/bear-group.webp" alt="打熊-小号首页：选中的分组与四项任务" width="280" /></td>
   </tr>
+  <tr><th>自动采集，按需配置</th><th>安排好，再放心离开</th></tr>
   <tr>
-    <th>任务首页与自建分组</th>
-    <th>选中「打熊-小号」的首页</th>
+    <td><img src="assets/screenshots/task-settings.webp" alt="自动采集：队伍数、矿种与默认采矿等级" width="280" /></td>
+    <td><img src="assets/screenshots/schedule.webp" alt="任务定时：定点、间隔与间隔天数" width="280" /></td>
   </tr>
+  <tr><th>小工具，也很顺手</th><th>分身独立，随时切换</th></tr>
   <tr>
-    <td><img src="assets/screenshots/home.jpg" alt="MaaWos 首页：任务分类与自建分组" width="280" /></td>
-    <td><img src="assets/screenshots/bear-group.jpg" alt="打熊-小号首页：选中的分组与四项任务" width="280" /></td>
+    <td><img src="assets/screenshots/pet-refine.webp" alt="宠物洗炼：模式、目标词条与消耗上限" width="280" /></td>
+    <td><img src="assets/screenshots/clones.webp" alt="分身管理：多个独立分身，可分别启动、改名和管理" width="280" /></td>
   </tr>
+  <tr><th colspan="2">梦境寻忆，轻松寻物</th></tr>
   <tr>
-    <th>自动采集详情</th>
-    <th>定时执行</th>
-  </tr>
-  <tr>
-    <td><img src="assets/screenshots/task-settings.jpg" alt="自动采集：队伍数、矿种与默认采矿等级" width="280" /></td>
-    <td><img src="assets/screenshots/schedule.jpg" alt="任务定时：定点、间隔与间隔天数" width="280" /></td>
-  </tr>
-  <tr>
-    <th colspan="2">宠物洗炼</th>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><img src="assets/screenshots/pet-refine.jpg" alt="宠物洗炼：模式、目标词条与消耗上限" width="280" /></td>
+    <td colspan="2" align="center"><img src="assets/screenshots/dream-recall.webp" alt="梦境寻忆：自动点击或提示，选择当前关卡模板" width="280" /></td>
   </tr>
 </table>
 
@@ -95,6 +84,10 @@ MaaWos 是在 Android 手机本地运行的《无尽冬日》助手。给每个�
 支持 **Android 10 及以上的 64 位 ARM 设备**；本机无线调试通道需要 **Android 11 及以上**。运行时需联网确认登录与授权。定时触发时设备须处于可直接操作的状态，密码、指纹或图案锁屏时无法执行；错过的定时不会补跑。请按提示授予精确闹钟与后台运行所需权限。
 
 当前仅提供 **0.8.8（版本号 14）**，旧版已下线。**0.8.7 及更早版本无法继续使用当前服务，请从官网下载页或最新 Release 直接覆盖安装**，无需卸载原正式版。新版登录页提供「检查更新」「官网下载」，也可在「设置 → 关于」检查更新。本仓库用于项目介绍、界面展示与正式 APK 发布。
+
+## 邀请朋友
+
+在 App「设置 → 邀请新用户」复制邀请码或分享邀请链接。朋友下载并使用邮箱登录后，在同一页面填写邀请码，双方各得 **7 天 VIP 授权**，授权天数可累加。每个账号仅可填写一次邀请码；下载页会展示链接携带的邀请码并提供复制按钮，链接不会自动绑定账号。
 
 ## 支持项目
 
